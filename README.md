@@ -1,9 +1,13 @@
 ### Hello World, I'm Diego Candido - aka [mashiruwu] 🧑‍💻
 
 ## I'm a Developer, Gamer and Life Hacker (lazy)
--🏢 I'm currently an intern at [Dextra] with Big Data!  
+
+-🏢 I'm currently an intern at [Dextra] with Big Data!
+
 -🏛️ I'm finishing Software Development Technical Course at COTUCA 
+
 -🎯 2021 Goals: Deploy a website and get to know more about entrepreneurship
+
 -🕹️ I love music, animes and video games 
 
 ### Connect with me:
