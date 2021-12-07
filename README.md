@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer and Life Hacker (lazy)
 
--🏢 I'm currently an intern at [Dextra] with Big Data! <br />
+-🏢 I'm currently an intern at [CI&T] with Big Data! <br />
 -🏛️ I'm finishing Software Development Technical Course at COTUCA <br />
 -🎯 2021 Goals: Deploy a website and get to know more about entrepreneurship <br />
 -🕹️ I love music, animes and video games 
@@ -22,4 +22,4 @@
 
 ---
 [mashiruwu]: https://www.youtube.com/channel/UCykbC0qOAACJfaOO2NrEjtg
-[Dextra]: https://www.dextra.com.br/
+[CI&T]: https://ciandt.com/
