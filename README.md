@@ -4,7 +4,7 @@
 
 -🏢 I'm currently an intern at [CI&T] with Big Data! <br />
 -🏛️ I'm finishing Software Development Technical Course at COTUCA <br />
--🎯 2021 Goals: Deploy a website and get to know more about entrepreneurship <br />
+-🎯 2022 Goals: Deploy a website and get to know more about entrepreneurship <br />
 -🕹️ I love music, animes and video games 
 
 ### Connect with me:
