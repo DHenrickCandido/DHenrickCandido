@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer and Life Hacker (lazy)
 
--🏢 I'm currently an intern at [CI&T] with Big Data! <br />
+-🏢 I'm currently a junior data engineer at [CI&T], working with Big Data! <br />
 -🏛️ I'm finishing Software Development Technical Course at COTUCA <br />
 -🎯 2022 Goals: Deploy a website and get to know more about entrepreneurship <br />
 -🕹️ I love music, animes and video games 
