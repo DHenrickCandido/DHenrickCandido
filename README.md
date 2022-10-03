@@ -1,6 +1,6 @@
 ### Hello World, I'm Diego Candido - aka [mashiruwu] 🧑‍💻
 
-## I'm a Developer, Gamer and Life Hacker (lazy)
+## I'm a Developer, Gamer and Life Hacker 
 
 -🏢 I'm currently a junior data engineer at [CI&T], working with Big Data! <br />
 -🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Computer Science at PUCPR<br />
