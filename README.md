@@ -4,7 +4,7 @@
 
 -🏢 I'm currently a junior data engineer at [CI&T], working with Big Data! <br />
 -🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Computer Science at PUCPR<br />
--🎯 2022 Goals: Deploy a website and get to know more about entrepreneurship <br />
+-🎯 2023 Goals: Deploy a website and get to know more about entrepreneurship <br />
 -🕹️ I love music, animes and video games 
 
 ### Connect with me:
