@@ -5,7 +5,7 @@
 -🏢 I'm currently an iOS Engineer at [CI&T], working on Domino's App! <br />
 - I'm enrolled on Apple Developer Academy, learning and developing iOS apps <br />
 -🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Computer Science at PUCPR<br />
--🎯 2023 Goals: Deploy a website and get to know more about entrepreneurship <br />
+-🎯 2024 Goals: Start freelancing and get 1000 users in any app <br />
 -🕹️ I love music, animes and video games 
 
 ### Connect with me:
