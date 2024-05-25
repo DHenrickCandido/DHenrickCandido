@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Gamer and Life Hacker 
 
--🏢 I'm currently an iOS Engineer at [CI&T], working on Domino's App! <br />
+-🏢 I'm an iOS Engineer and Entrepreneur <br />
 - I'm enrolled on Apple Developer Academy, learning and developing iOS apps <br />
 -🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Computer Science at PUCPR<br />
 -🎯 2024 Goals: Start freelancing and get 1000 users in any app <br />
