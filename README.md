@@ -4,7 +4,7 @@
 
 -🏢 I'm an iOS Engineer and Entrepreneur <br />
 - I'm enrolled on Apple Developer Academy, learning and developing iOS apps <br />
--🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Computer Science at PUCPR<br />
+-🏛️ I finished Software Development Technical Course at COTUCA and I'm an undergraduate Informational Systems at PUCPR<br />
 -🎯 2024 Goals: Reach 1000 users in any of my apps <br />
 -🕹️ I love music, animes and video games 
 
