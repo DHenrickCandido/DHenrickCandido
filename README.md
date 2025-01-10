@@ -16,4 +16,3 @@
 
 ---
 [mashiruwu]: https://www.youtube.com/channel/UCykbC0qOAACJfaOO2NrEjtg
-[CI&T]: https://ciandt.com/
